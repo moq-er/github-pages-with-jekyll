@@ -1,4 +1,10 @@
-    Priya worked hard to pursue her premed dreams at Stanford, but a diagnosis of chronic Lyme disease during her sophomore year sends her back to her loving but overbearing family in New Jersey — and leaves her wondering if she’ll ever be able to return to the way things were.
+---
+title: "Giraffethropy"
+date: 2021-05-25
+---
+
+
+Priya worked hard to pursue her premed dreams at Stanford, but a diagnosis of chronic Lyme disease during her sophomore year sends her back to her loving but overbearing family in New Jersey — and leaves her wondering if she’ll ever be able to return to the way things were.
 
     Thankfully she has her online pen pal, Brigid, and the rest of the members of ‘oof ouch my bones’, a virtual support group that meets on Discord to crack jokes and vent about their own chronic illnesses.
 
